@@ -26,18 +26,18 @@
 
 ### 🐱‍💻 Мои Open Source проекты
 <p align="left">
-  <a href="https://github.com/dev-kitty-ilnazik/portfolio">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dev-kitty-ilnazik&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <a href="https://github.com/kitty-ilnazik/portfolio">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kitty-ilnazik&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
   </a>
-  <a href="https://github.com/dev-kitty-ilnazik/Manonyan-Bot">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dev-kitty-ilnazik&repo=Manonyan-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <a href="https://github.com/kitty-ilnazik/Manonyan-Bot">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kitty-ilnazik&repo=Manonyan-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
   </a>
-  <a href="https://github.com/dev-kitty-ilnazik/telegram-mini-app-kitty-ilnazik">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=dev-kitty-ilnazik&repo=telegram-mini-app-kitty-ilnazik&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <a href="https://github.com/kitty-ilnazik/telegram-mini-app-kitty-ilnazik">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kitty-ilnazik&repo=telegram-mini-app-kitty-ilnazik&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
   </a>
 </p>
 <p>
-  <a href="https://github.com/dev-kitty-ilnazik?tab=repositories&sort=stargazers">
+  <a href="https://github.com/kitty-ilnazik?tab=repositories&sort=stargazers">
     <img alt="Все репозитории" src="https://custom-icon-badges.demolab.com/badge/-Все%20мои%20репозитории-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
   </a>
 </p>
@@ -45,7 +45,7 @@
 ---
 
 ### 🌐 Социальные сети
-  <a href="https://github.com/dev-kitty-ilnazik">
+  <a href="https://github.com/kitty-ilnazik">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/kitty-ilnazik">
@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/Канал-FF4500?style=flat&logo=telegram&logoColor=white" alt="Telegram Channel" />
   </a>
 
-  ---
+---
 
 ### 🖥️ Языки программирования
 <p>
@@ -116,24 +116,23 @@
   <img src="https://img.shields.io/badge/Zsh-4D4D4D?style=flat&logo=gnu-bash&logoColor=white" />
 </p>
 
-
 ---
 
 ### 📊 GitHub Статистика
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=dev-kitty-ilnazik&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dev-kitty-ilnazik&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="180px"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=kitty-ilnazik&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kitty-ilnazik&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=dev-kitty-ilnazik&bg_color=1F222E&color=F8D866&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=kitty-ilnazik&bg_color=1F222E&color=F8D866&theme=react-dark" />
 </p>
 
 ---
 
 ### 👀 Просмотры профиля & 🙏 Спасибо!
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-kitty-ilnazik&color=F71581&style=for-the-badge" alt="profile views" /><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=kitty-ilnazik&color=F71581&style=for-the-badge" alt="profile views" /><br/><br/>
   <img src="https://media.tenor.com/mJJU3_4apdEAAAAj/comfy-emote.gif" width="250" alt="thanks gif" /><br/><br/>
   ⭐ Спасибо, что заглянули! Если вам понравился профиль — не забудьте подписаться!  
 </p>

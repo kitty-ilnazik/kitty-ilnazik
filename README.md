@@ -26,8 +26,8 @@
 
 ### 🐱‍💻 Мои Open Source проекты
 <p align="left">
-  <a href="https://github.com/kitty-ilnazik/portfolio">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kitty-ilnazik&repo=portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <a href="https://github.com/kitty-ilnazik/telegram-bot-template">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kitty-ilnazik&repo=telegram-bot-template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
   </a>
   <a href="https://github.com/kitty-ilnazik/Manonyan-Bot">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kitty-ilnazik&repo=Manonyan-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />

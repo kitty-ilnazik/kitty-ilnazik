@@ -24,16 +24,24 @@
 
 ---
 
-### 🐱‍💻 Мои Open Source проекты
+### 🐱‍💻 Мои шаблоны для начало разработки
 <p align="left">
   <a href="https://github.com/kitty-ilnazik/telegram-bot-template">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kitty-ilnazik&repo=telegram-bot-template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
   </a>
-  <a href="https://github.com/kitty-ilnazik/Manonyan-Bot">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kitty-ilnazik&repo=Manonyan-Bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <a href="https://github.com/kitty-ilnazik/telegram-mini-apps-template">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kitty-ilnazik&repo=telegram-mini-apps-template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
   </a>
-  <a href="https://github.com/kitty-ilnazik/telegram-mini-app-kitty-ilnazik">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kitty-ilnazik&repo=telegram-mini-app-kitty-ilnazik&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <a href="https://github.com/kitty-ilnazik/frontend-template">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kitty-ilnazik&repo=frontend-template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/kitty-ilnazik/backend-template">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kitty-ilnazik&repo=backend-template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  </a>
+  <a href="https://github.com/kitty-ilnazik/expo-app-template">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=kitty-ilnazik&repo=expo-app-template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
   </a>
 </p>
 <p>
